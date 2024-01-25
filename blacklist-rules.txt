@@ -7,4 +7,31 @@ payload:
   - DOMAIN-SUFFIX,xhamster.com
   - DOMAIN-SUFFIX,xnxx.com
   - DOMAIN-SUFFIX,rou.video
+  - DOMAIN-KEYWORD,dafahao
+  - DOMAIN-KEYWORD,minghui
+  - DOMAIN-KEYWORD,dongtaiwang
+  - DOMAIN-KEYWORD,epochtimes
+  - DOMAIN-KEYWORD,ntdtv
+  - DOMAIN-KEYWORD,falundafa
+  - DOMAIN-KEYWORD,wujieliulan
+  - DOMAIN-KEYWORD,zhengjian
+  - DOMAIN-KEYWORD,shenzhoufilm
+  - DOMAIN-KEYWORD,secretchina
+  - DOMAIN-KEYWORD,renminbao
+  - DOMAIN-KEYWORD,aboluowang
+  - DOMAIN-KEYWORD,mhradio
+  - DOMAIN-KEYWORD,guangming
+  - DOMAIN-KEYWORD,zhengwunet
+  - DOMAIN-KEYWORD,soundofhope
+  - DOMAIN-KEYWORD,yuanming
+  - DOMAIN-KEYWORD,zhuichaguoji
+  - DOMAIN-KEYWORD,fgmtv
+  - DOMAIN-KEYWORD,xinsheng
+  - DOMAIN-KEYWORD,shenyunperformingarts
+  - DOMAIN-KEYWORD,epochweekly
+  - DOMAIN-KEYWORD,tuidang
+  - DOMAIN-KEYWORD,shenyun
+  - DOMAIN-KEYWORD,falundata
+  - DOMAIN-KEYWORD,bannedbook
+
   
